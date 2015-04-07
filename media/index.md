@@ -4,56 +4,10 @@ title: Media
 permalink: /media/
 ---
 
-<!--    Gallery Row      -->            
-                <div class="col-lg-4 text-center">
-                    <img class="img-responsive img-border img-full" src="img/lsn2.png" alt="">
-                </div>
-                
-                <div class="col-lg-4 text-center">
-                    <img class="img-responsive img-border img-full" src="img/lsn2.png" alt="">
-                </div>
-                
-                <div class="col-lg-4 text-center">
-                    <img class="img-responsive img-border img-full" src="img/lsn2.png" alt="">
-                </div>
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-                <div class="col-lg-12 text-center">
-                    <br>
-                </div>
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-     <!--    Gallery Row      -->            
-                <div class="col-lg-4 text-center">
-                    <img class="img-responsive img-border img-full" src="img/lsn2.png" alt="">
-                </div>
-                
-                <div class="col-lg-4 text-center">
-                    <img class="img-responsive img-border img-full" src="img/lsn2.png" alt="">
-                </div>
-                
-                <div class="col-lg-4 text-center">
-                    <img class="img-responsive img-border img-full" src="img/lsn2.png" alt="">
-                </div>
-
-                <div class="col-lg-12 text-center">
-                    <br>
-                </div>
-                
-
-    <!--    Gallery Row      -->            
-                <div class="col-lg-4 text-center">
-                    <img class="img-responsive img-border img-full" src="img/lsn2.png" alt="">
-                </div>
-                
-                <div class="col-lg-4 text-center">
-                    <img class="img-responsive img-border img-full" src="img/lsn2.png" alt="">
-                </div>
-                
-                <div class="col-lg-4 text-center">
-                    <img class="img-responsive img-border img-full" src="img/lsn2.png" alt="">
-                </div>
-
-                <div class="col-lg-12 text-center">
-                    <br>
-                </div>
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 ![Collage](img/collage.png)
