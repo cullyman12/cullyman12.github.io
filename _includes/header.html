@@ -17,7 +17,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li {% if active[1] == '' %}class='active'{% endif %}>
+                <li {% if active[1] == 'index.html' %}class='active'{% endif %}>
                     <a href="/">Blog</a>
                 </li>
                 <li {% if active[1] == 'project' %}class='active'{% endif %}>
@@ -32,7 +32,6 @@
                 <li {% if active[1] == 'links' %}class='active'{% endif %}>
                     <a href="/links">Links</a>
                 </li>
-
             </ul>
         </div>
         <!-- /.navbar-collapse -->
