@@ -61,8 +61,8 @@ margin-left: 0px;
 
 body {
     font-family: "Times New Roman", Times, serif;
-    background: url('../img/bglight.jpg') no-repeat center center fixed;
-    /*background: #FFF;*/
+    /*background: url('../img/bglight.jpg') no-repeat center center fixed;*/
+    background: #FFF;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -140,7 +140,7 @@ hr {
     padding: 40px 15px;
     background: #fff;
     border: solid black 0px;
-    background: rgba(250, 250, 250, .95);
+    background: rgba(240, 240, 240, 1);
 }
 
 .intro-text {
