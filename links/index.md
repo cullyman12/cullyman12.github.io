@@ -4,10 +4,24 @@ title: Links
 permalink: /links/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<ul class="nobullets">
+	<li><a href="http://www.codecademy.com/" target="_blank">Code Academy:</a> free online tutorials for how to learn to code (this is how I learned to build this page)
+	</li><br>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+	<li><a href="http://jekyllrb.com/" target="_blank">Jekyll:</a> free online tool for blog building and simplification (used to build this page)
+	</li><br>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+	<li><a href="https://github.com/" target="_blank">GitHub:</a> Create, fork and collaborate on repositories (projects). Free online web hosting as well! (Use to host my page)
+	</li><br>
 
-![Collage](img/collage.png)
+	<li><a href="http://startbootstrap.com/bootstrap-resources/" target="_blank">Start Bootstrap:</a> A great list of Bootstrap templates and resources for designing your web page. (Used to build this page)
+	</li><br>
+
+
+	<li><a href="http://www.asciifarm.com/" target="_blank">AsciiFarm:</a> Interesting blog
+	</li><br>
+
+	
+
+	
+</ul>
