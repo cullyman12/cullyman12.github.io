@@ -3,7 +3,7 @@ layout: page
 title: Links
 permalink: /links/
 ---
-
+<p>
 <ul class="nobullets">
 	<li><a href="http://www.codecademy.com/" target="_blank">Code Academy:</a> free online tutorials for how to learn to code (this is how I learned to build this page)
 	</li><br>
@@ -18,10 +18,8 @@ permalink: /links/
 	</li><br>
 
 
-	<li><a href="http://www.asciifarm.com/" target="_blank">AsciiFarm:</a> Interesting blog
+	<li><a href="http://www.asciifarm.com/" target="_blank">AsciiFarm:</a> Very technical blog, ramblings and portfolio of my friend Joel
 	</li><br>
 
-	
-
-	
 </ul>
+</p>
