@@ -137,8 +137,10 @@ hr {
 
 .box {
     float: none;
-    margin-top: 50px;
+    margin-top: 10px;
     margin-bottom: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
     padding: 40px 15px;
     background: #fff;
     border: solid black 0px;
@@ -226,7 +228,7 @@ footer p {
     }
 
     .navbar-default {
-        position: fixed;
+        
         width: 100%;
         text-align: center;
         /*margin-left: 15%;
