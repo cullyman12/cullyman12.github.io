@@ -4,7 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-
 #rightcolumn {
     margin-top: -21px;
     font-color: gray;
@@ -265,5 +264,19 @@ footer p {
         content: '';
         display: table;
         clear: both;
+        margin: 0;
     }
 }
+
+@media screen and (max-width:786px) {
+    .box {
+        content: '';
+        display: table;
+        clear: both;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
+
+
+
