@@ -44,6 +44,12 @@
 .bullets li {
  font-size: 1.1em;
  list-style-position: inside;
+ }
+
+ .bullets li {
+ font-size: 1.1em;
+ list-style-position: inside;
+ position: relative;
  text-align: left;
  }
 
