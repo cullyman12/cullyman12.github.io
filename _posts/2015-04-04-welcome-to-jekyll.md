@@ -11,7 +11,7 @@ image: "/img/hjd.png"
 
 
  
- A few months back, I was walking down Spring Garden Road in Halifax, when I saw someone wearing a nice pair of boots. I thought to myself, “Hm, I like those boots”, so I told him, “I like those boots”. He was a bit startled when I said it, and I asked him where he had bought them. He told me that he’d bought them in Korea. After asking a few more questions, I learned that he was from South Korea, and or meet any friends.  Without really thinking about it, I just asked “want a friend?”. 
+ A few months back, I was walking down Spring Garden Road in Halifax, when I saw someone wearing a nice pair of boots. I thought to myself, “Hm, I like those boots”, so I told him, “I like those boots”. He was a bit startled when I said it, and I asked him where he had bought them. He told me that he’d bought them in Korea. After asking a few more questions, I learned that he was from South Korea, he hadn't yet seen the city, nor had he met any friends.  Without really thinking about it, I just asked “want a friend?”. 
 
  Though he seemed a little surprised, Ho-Jin was happy to take my number and I asked him to text me when he wanted to meet up. 
 
