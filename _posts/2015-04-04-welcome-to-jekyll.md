@@ -6,7 +6,7 @@ categories: jekyll update
 image: "/img/hjd.png"
 ---
  My very first blog post, featuring an introductory video and a cheesy story about the power of a small compliment. 
- **Please watch this video before reading!!!**     >>>>     [Ho-Jin and Dave Intros](https://www.youtube.com/watch?v=6BHxqogqMoc)
+ **Please watch this video before reading!!!**     >>>>     [Ho-Jin and Dave Intros](https://www.youtube.com/watch?v=6BHxqogqMoc){:target="_blank"}
 
 
 
@@ -19,7 +19,7 @@ image: "/img/hjd.png"
 
  If you have something nice to say, SAY IT! <br   /> <br   />
 
- Speaking of which, this blog was inspired by someone a lot smarter and cooler than myself! Her name is Mel Hattie, and you can check out her work at [MelHattie.com](http://www.melhattie.com/).
+ Speaking of which, this blog was inspired by someone a lot smarter and cooler than myself! Her name is Mel Hattie, and you can check out her work at [MelHattie.com](http://www.melhattie.com/){:target="_blank"}.
 
 
  
