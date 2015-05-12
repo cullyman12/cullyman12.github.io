@@ -13,3 +13,6 @@ paginate: 3
 
 # Build settings
 markdown: kramdown
+
+include: 
+ - bower_components
