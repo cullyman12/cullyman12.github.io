@@ -3,6 +3,10 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+
+ .hover-cursor {
+    cursor: pointer;
+ }
 .media-center {
     display: block;
     margin-left: auto;
@@ -71,9 +75,9 @@ margin-left: 0px;
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: url('../img/black.jpg') no-repeat center center fixed;
-    /*background: rgba(0, 255, 153, .25);*/
-    -webkit-background-size: cover;
+    /*background: url('../img/black.jpg') no-repeat center center fixed;*/
+    background: #fff;
+    -webkit-background-size: cover;*?
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
