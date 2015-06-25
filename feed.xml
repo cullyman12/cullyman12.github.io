@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Danger Dave</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Dave Culligan</title>
+    <description>Blog website, following the life and adventures of David Culligan. 
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jun 2015 15:59:06 -0300</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2015 15:59:06 -0300</lastBuildDate>
+    <link>http://daveculligan.ca/</link>
+    <atom:link href="http://daveculligan.ca/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 25 Jun 2015 16:46:52 -0300</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2015 16:46:52 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -91,8 +91,8 @@
  
 </description>
         <pubDate>Tue, 23 Jun 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/23/Falck-and-Run.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/23/Falck-and-Run.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/06/23/Falck-and-Run.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/06/23/Falck-and-Run.html</guid>
         
         
         <category>jekyll</category>
@@ -173,8 +173,8 @@
  
 </description>
         <pubDate>Fri, 19 Jun 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/19/Morning-Video.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/19/Morning-Video.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/06/19/Morning-Video.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/06/19/Morning-Video.html</guid>
         
         
         <category>jekyll</category>
@@ -278,8 +278,8 @@
  
 </description>
         <pubDate>Mon, 15 Jun 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/15/Motivation-Monday.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/15/Motivation-Monday.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/06/15/Motivation-Monday.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/06/15/Motivation-Monday.html</guid>
         
         
         <category>jekyll</category>
@@ -368,8 +368,8 @@
  
 </description>
         <pubDate>Tue, 09 Jun 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/09/Bluff-Nature-Trail.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/09/Bluff-Nature-Trail.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/06/09/Bluff-Nature-Trail.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/06/09/Bluff-Nature-Trail.html</guid>
         
         
         <category>jekyll</category>
@@ -461,8 +461,8 @@
  
 </description>
         <pubDate>Sat, 06 Jun 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/06/Be-A-Killer-Grandparent.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/06/Be-A-Killer-Grandparent.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/06/06/Be-A-Killer-Grandparent.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/06/06/Be-A-Killer-Grandparent.html</guid>
         
         
         <category>jekyll</category>
@@ -582,8 +582,8 @@
  
 </description>
         <pubDate>Thu, 04 Jun 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/04/Things-I-Wish.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/04/Things-I-Wish.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/06/04/Things-I-Wish.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/06/04/Things-I-Wish.html</guid>
         
         
         <category>jekyll</category>
@@ -674,8 +674,8 @@
  
 </description>
         <pubDate>Mon, 01 Jun 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/01/swim-and-lemonade.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/01/swim-and-lemonade.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/06/01/swim-and-lemonade.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/06/01/swim-and-lemonade.html</guid>
         
         
         <category>jekyll</category>
@@ -759,8 +759,8 @@
  
 </description>
         <pubDate>Mon, 25 May 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/25/hike-to-duncans.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/25/hike-to-duncans.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/05/25/hike-to-duncans.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/05/25/hike-to-duncans.html</guid>
         
         
         <category>jekyll</category>
@@ -834,8 +834,8 @@ Set goals, write them down, and list them in order of importance. 5 Months ago I
  
 </description>
         <pubDate>Tue, 12 May 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/12/6--writing-things-down.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/12/6--writing-things-down.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/05/12/6--writing-things-down.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/05/12/6--writing-things-down.html</guid>
         
         
         <category>jekyll</category>
@@ -928,8 +928,8 @@ I can’t believe it has taken me this long to get into graphic novels. The Hali
  
 </description>
         <pubDate>Fri, 08 May 2015 09:55:44 -0300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/08/6-things-halifax.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/08/6-things-halifax.html</guid>
+        <link>http://daveculligan.ca/jekyll/update/2015/05/08/6-things-halifax.html</link>
+        <guid isPermaLink="true">http://daveculligan.ca/jekyll/update/2015/05/08/6-things-halifax.html</guid>
         
         
         <category>jekyll</category>
